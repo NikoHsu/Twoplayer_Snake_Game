@@ -21,4 +21,4 @@
 
 随着时间推移，游戏节奏会越来越快，祝你好运
 
-演示视频：https://www.bilibili.com/video/BV1S7411a7np?spm_id_from=333.999.0.0
+演示视频：https://www.bilibili.com/video/BV1S7411a7np
